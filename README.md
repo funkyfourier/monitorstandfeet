@@ -14,6 +14,6 @@ The dimensions can easily be adjusted in the FreeCAD spreadsheet:
 
 ![FreeCAD spreadsheet](https://raw.githubusercontent.com/funkyfourier/monitorstandfeet/master/img/parameters.png)
 
-Be sure to allow a millimeter or so in width for tolerance, and maybe 0.1-0.3 in thickness depending on your plate. Also be aware of dimension variations in wooden plates. Mine was said to be 300mm in width but was actually 303mm.
+Be sure to allow a millimeter or so in width for tolerance, and maybe 0.1-0.3 in thickness depending on your plate. Also be aware of dimension variations in wooden plates. Mine was said to be 300mm wide but was actually 303mm.
 
-There are also two cut down versions of the corner feet to be used as drill guides.
+There are also cut down versions of the corner feet to be used as drill guides.
